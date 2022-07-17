@@ -1,0 +1,78 @@
+{
+    "name": "twentyFour",
+    "displayName": "TwentyFour",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "TwentyFour 00",
+        "TwentyFour 21",
+        "TwentyFour 18",
+        "TwentyFour 15",
+        "TwentyFour 12",
+        "TwentyFour 09",
+        "TwentyFour 06",
+        "TwentyFour 03"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TwentyFour 00",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TwentyFour-color-theme.json"
+            },
+            {
+                "label": "TwentyFour 21",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TwentyFour-21-color-theme.json"
+            },
+            {
+                "label": "TwentyFour 18",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TwentyFour-18-color-theme.json"
+            },
+            {
+                "label": "TwentyFour 15",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TwentyFour-15-color-theme.json"
+            },
+            {
+                "label": "TwentyFour 12",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TwentyFour-12-color-theme.json"
+            },
+            {
+                "label": "TwentyFour 09",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TwentyFour-09-color-theme.json"
+            },
+            {
+                "label": "TwentyFour 06",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TwentyFour-06-color-theme.json"
+            },
+            {
+                "label": "TwentyFour 03",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TwentyFour-03-color-theme.json"
+            }
+        ]
+    },
+    "icon": "img/ico.jpg",
+    "author": {
+        "name": "Yes Dev",
+        "email": "yesdev19@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/yesomac/twentyFour.git",
+        "type": "git"
+    },
+    "publisher": "YesCode",
+    "license": "MIT"
+}
