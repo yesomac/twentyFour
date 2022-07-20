@@ -20,7 +20,6 @@
     "icon.foreground": "#b3d2f0",
     "tree.indentGuidesStroke": "#47509e",
     //bracket
-    "editor.selectionHighlightBackground": "#6d7af098",
     "editor.wordHighlightBackground": "#0c0d52cc",
     "editor.wordHighlightStrongBackground": "#0c113a",
     "editor.wordHighlightStrongBorder": "#cdcdcd7a",
@@ -52,17 +51,18 @@
     "editorSuggestWidget.selectedIconForeground": "#e4b187",
     "editor.findMatchBackground": "#053d85dc",
     "editor.findMatchHighlightBackground": "#4670a738", //0d151d
-    "editorWidget.background": "#1c0e4252", //
+    "editorWidget.background": "#0e1642fa", //
     //panel
     "panel.background": "#0c1318",
     "panel.border": "#0283fcc0",
     //new
     // "editor.findMatchBorder": "#bd218991",
     "editor.findMatchHighlightBorder": "#344f88",
-    "editor.selectionHighlightBorder": "#4e70a3",
+    "editor.selectionHighlightBackground": "#29338fb2",
+    "editor.selectionHighlightBorder": "#4e70a34b",
     "editor.wordHighlightBorder": "#4e70a3",
     "editorError.background": "#4e3b7e",
-    "editorOverviewRuler.findMatchForeground": "#6494db",
+    "editorOverviewRuler.findMatchForeground": "#a264db",
     "editorWidget.border": "#645aa1",
     "badge.foreground": "#e7e6ec",
     "banner.background": "#4463eb6e",
@@ -103,7 +103,7 @@
     //new
     "tab.inactiveForeground": "#bccbe0",
     "tab.unfocusedActiveForeground": "#f3f5f8",
-    "tab.unfocusedInactiveBackground": "#121117",
+    "tab.unfocusedInactiveBackground": "#232e3a",
     "tab.unfocusedInactiveForeground": "#d6e2f3",
     //title
     "titleBar.activeBackground": "#1a232c",
@@ -162,7 +162,7 @@
     "button.border": "#476a9e",
     //input
     "input.border": "#4f789e",
-    "input.background": "#02082956",
+    "input.background": "#2e288573",
     "input.placeholderForeground": "#ddd",
     "inputOption.activeBorder": "#4570e6",
     "inputOption.activeBackground": "#12209b",
@@ -230,7 +230,7 @@
     "settings.rowHoverBackground": "#43558f46",
     "settings.textInputForeground": "#ebebfa",
     //new?
-    "breadcrumb.foreground": "#70a2ec",
+    "breadcrumb.foreground": "#bafaff",
     "checkbox.background": "#053fdda1",
     "checkbox.foreground": "#e4efff",
     "descriptionForeground": "#9bb1f0",

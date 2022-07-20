@@ -17,17 +17,17 @@
     "editorGroup.border": "#5e479e",
     "editorIndentGuide.background": "#5e479e28",
     "widget.shadow": "#5e479e2c",
-    "icon.foreground": "#b3b9f0",
+    "icon.foreground": "#bbdee0",
     "tree.indentGuidesStroke": "#5c40aa",
     //bracket
-    "editor.selectionHighlightBackground": "#6f6df098",
+    "editor.selectionHighlightBackground": "#4846da6e",
     "editor.wordHighlightBackground": "#200c52cc",
     "editor.wordHighlightStrongBackground": "#0c113a",
     "editor.wordHighlightStrongBorder": "#cdcdcd7a",
-    "editorBracketHighlight.foreground1": "#a204ec",
+    "editorBracketHighlight.foreground1": "#25f5c8",
     "editorBracketHighlight.foreground2": "#da74d5",
     "editorBracketHighlight.foreground3": "#f5d857",
-    "editorBracketHighlight.foreground4": "#25f5c8",
+    "editorBracketHighlight.foreground4": "#f5f5dc",
     "editorBracketHighlight.foreground5": "#00b87b",
     "editorBracketHighlight.foreground6": "#e75585",
     "editorBracketMatch.background": "#362574d0",
@@ -52,23 +52,23 @@
     "editorSuggestWidget.background": "#182029",
     "editor.findMatchBackground": "#053d85dc",
     "editor.findMatchHighlightBackground": "#4670a738", //1a232c
-    "editorWidget.background": "#1c0e4252", //
+    "editorWidget.background": "#181f36", //
     //panel
     "panel.background": "#0c1318",
     "panel.border": "#e3fc0263",
     //new
     // "editor.findMatchBorder": "#bd218991",
     "editor.findMatchHighlightBorder": "#3f3488",
-    "editor.selectionHighlightBorder": "#4e70a3",
+    "editor.selectionHighlightBorder": "#4e70a346",
     "editor.wordHighlightBorder": "#4e70a3",
     "editorError.background": "#372c7eb7",
-    "editorOverviewRuler.findMatchForeground": "#6494db",
+    "editorOverviewRuler.findMatchForeground": "#d282eb",
     "editorWidget.border": "#645aa1",
     "badge.foreground": "#e7e6ec",
     "banner.background": "#4744eb6e",
     //sideBar
     "sideBarSectionHeader.background": "#1a232c",
-    "sideBarSectionHeader.foreground": "#bac6ff",
+    "sideBarSectionHeader.foreground": "#bafaff",
     "sideBarTitle.foreground": "#fff",
     "sideBar.background": "#1a232c",
     "sideBar.border": "#5e479e52",
@@ -81,7 +81,7 @@
     // "statusBar.border": "#1a232c",
     //new
     "statusBar.focusBorder": "#4744eb6e",
-    "statusBar.foreground": "#a0b2da",
+    "statusBar.foreground": "#a0ccda",
     "statusBarItem.hoverBackground": "#423b707e",
     "statusBarItem.remoteBackground": "#e7186e",
     "statusBarItem.remoteForeground": "#f0cbeb",
@@ -103,7 +103,7 @@
     //new
     "tab.inactiveForeground": "#bccbe0",
     "tab.unfocusedActiveForeground": "#f3f5f8",
-    "tab.unfocusedInactiveBackground": "#121117",
+    "tab.unfocusedInactiveBackground": "#1a232c",
     "tab.unfocusedInactiveForeground": "#d6e2f3",
     //title
     "titleBar.activeBackground": "#232e3a",
@@ -162,7 +162,7 @@
     "button.border": "#5e479e",
     //input
     "input.border": "#654f9e",
-    "input.background": "#413b4ebe",
+    "input.background": "#3b3250be",
     "input.placeholderForeground": "#ddd",
     "inputOption.activeBorder": "#7045e6",
     "inputOption.activeBackground": "#36129b",
@@ -230,7 +230,7 @@
     "settings.rowHoverBackground": "#4d438f46",
     "settings.textInputForeground": "#ebebfa",
     //new?
-    "breadcrumb.foreground": "#70a2ec",
+    "breadcrumb.foreground": "#bafaff",
     "checkbox.background": "#2d05dda1",
     "checkbox.foreground": "#e4efff",
     "descriptionForeground": "#9bb1f0",

@@ -3,7 +3,6 @@
   "colors": {
     "editor.background": "#232e3a", //0f141a
     "editor.foreground": "#ddd",
-    "editor.selectionBackground": "#2d1766af",
     "editor.inactiveSelectionBackground": "#241157af",
     "editor.lineHighlightBackground": "#55447f8a", //232e3a
     "editor.lineHighlightBorder": "#8260d649", //
@@ -20,7 +19,6 @@
     "icon.foreground": "#f5f5dcbd",
     "tree.indentGuidesStroke": "#5c40aa",
     //bracket
-    "editor.selectionHighlightBackground": "#6f6df098",
     "editor.wordHighlightBackground": "#200c52cc",
     "editor.wordHighlightStrongBackground": "#0c113a",
     "editor.wordHighlightStrongBorder": "#cdcdcd7a",
@@ -48,8 +46,8 @@
     "badge.background": "#6e024a", //19253f
     "editorLineNumber.activeForeground": "#a880fa",
     "editorLineNumber.foreground": "#7e7e7eb9",
-    "editorSuggestWidget.selectedBackground": "#55447f",
-    "editorSuggestWidget.background": "#2c3b4a",
+    "editorSuggestWidget.selectedBackground": "#55447f9a",
+    "editorSuggestWidget.background": "#1b2733",
     "editor.findMatchBackground": "#053d85dc",
     "editor.findMatchHighlightBackground": "#4670a738", //232e3a
     "editorWidget.background": "#19253f", //
@@ -59,7 +57,9 @@
     //new
     // "editor.findMatchBorder": "#bd218991",
     "editor.findMatchHighlightBorder": "#3f3488",
-    "editor.selectionHighlightBorder": "#4e70a3",
+    "editor.selectionBackground": "#2d1766af",
+    "editor.selectionHighlightBackground": "#0d0b7991",
+    "editor.selectionHighlightBorder": "#4e57a354",
     "editor.wordHighlightBorder": "#4e70a3",
     "editorError.background": "#372c7eb7",
     "editorOverviewRuler.findMatchForeground": "#6494db",
@@ -88,7 +88,7 @@
     //tab
     "tab.activeBackground": "#232e3a",
     "tab.inactiveBackground": "#2c3b4a",
-    "tab.hoverBackground": "#28365a8a",
+    "tab.hoverBackground": "#28365ab7",
     "tab.hoverForeground": "#4ddbc8",
     "tab.activeBorder": "#2c3b4a", //2c3b4a
     "tab.activeForeground": "#fff",
@@ -103,7 +103,7 @@
     //new
     "tab.inactiveForeground": "#bccbe0",
     "tab.unfocusedActiveForeground": "#f3f5f8",
-    "tab.unfocusedInactiveBackground": "#121117",
+    "tab.unfocusedInactiveBackground": "#232e3a",
     "tab.unfocusedInactiveForeground": "#d6e2f3",
     //title
     "titleBar.activeBackground": "#2c3b4a",
@@ -230,7 +230,7 @@
     "settings.rowHoverBackground": "#4d438f46",
     "settings.textInputForeground": "#ebebfa",
     //new?
-    "breadcrumb.foreground": "#70a2ec",
+    "breadcrumb.foreground": "#a4f0e9",
     "checkbox.background": "#2d05dda1",
     "checkbox.foreground": "#e4efff",
     "descriptionForeground": "#9bb1f0",

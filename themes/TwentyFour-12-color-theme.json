@@ -20,7 +20,8 @@
     "icon.foreground": "#f5f5dc",
     "tree.indentGuidesStroke": "#5c40aa",
     //bracket
-    "editor.selectionHighlightBackground": "#6f6df098",
+    "editor.selectionHighlightBackground": "#345db48c",
+    "editor.selectionHighlightBorder": "#345db48c",
     "editor.wordHighlightBackground": "#200c52cc",
     "editor.wordHighlightStrongBackground": "#0c113a",
     "editor.wordHighlightStrongBorder": "#cdcdcd7a",
@@ -37,7 +38,7 @@
     "editorHoverWidget.border": "#5052c7b2",
     "editorHoverWidget.foreground": "#fff",
     "editorOverviewRuler.border": "#2c3b4a",
-    "editorSuggestWidget.border": "#2c3b4a",
+    "editorSuggestWidget.border": "#2c454a",
     "editorSuggestWidget.focusHighlightForeground": "#9674e7",
     "editorSuggestWidget.foreground": "#e8d9f5",
     "editorSuggestWidget.highlightForeground": "#677bec",
@@ -48,8 +49,8 @@
     "badge.background": "#0a2775", //19253f
     "editorLineNumber.activeForeground": "#a880fa",
     "editorLineNumber.foreground": "#7e7e7eb9",
-    "editorSuggestWidget.selectedBackground": "#22173f",
-    "editorSuggestWidget.background": "#0e161d",
+    "editorSuggestWidget.selectedBackground": "#324d55",
+    "editorSuggestWidget.background": "#23313f",
     "editor.findMatchBackground": "#053d85dc",
     "editor.findMatchHighlightBackground": "#4670a738", //2c3b4a
     "editorWidget.background": "#19253f", //
@@ -59,7 +60,6 @@
     //new
     // "editor.findMatchBorder": "#bd218991",
     "editor.findMatchHighlightBorder": "#3f3488",
-    "editor.selectionHighlightBorder": "#4e70a3",
     "editor.wordHighlightBorder": "#4e70a3",
     "editorError.background": "#372c7eb7",
     "editorOverviewRuler.findMatchForeground": "#6494db",
@@ -88,9 +88,9 @@
     //tab
     "tab.activeBackground": "#2c3b4a",
     "tab.inactiveBackground": "#384757",
-    "tab.hoverBackground": "#384757",
+    "tab.hoverBackground": "#2c3947",
     "tab.hoverForeground": "#4ddbc8",
-    "tab.activeBorder": "#f5f5dc", //384757
+    "tab.activeBorder": "#f5f5dc71", //384757
     "tab.activeForeground": "#fff",
     "tab.activeBorderTop": "#5e479e52", //55447f
     "tab.border": "#384757",
@@ -103,7 +103,7 @@
     //new
     "tab.inactiveForeground": "#bccbe0",
     "tab.unfocusedActiveForeground": "#f3f5f8",
-    "tab.unfocusedInactiveBackground": "#121117",
+    "tab.unfocusedInactiveBackground": "#2c3b4a",
     "tab.unfocusedInactiveForeground": "#d6e2f3",
     //title
     "titleBar.activeBackground": "#384757",

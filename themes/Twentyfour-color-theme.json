@@ -21,7 +21,6 @@
 		"tree.indentGuidesStroke": "#5c40aa",
 
 		//bracket
-		"editor.selectionHighlightBackground": "#6f6df098",
 		"editor.wordHighlightBackground": "#200c52cc",
 		"editor.wordHighlightStrongBackground": "#0c113a",
 		"editor.wordHighlightStrongBorder": "#cdcdcd7a",
@@ -50,22 +49,23 @@
 		"editorLineNumber.activeForeground": "#a880fa",
 		"editorLineNumber.foreground": "#7e7e7eb9",
 		"editorSuggestWidget.selectedBackground": "#22173f",
-		"editorSuggestWidget.background": "#0e161d",
-		"editor.findMatchBackground": "#053d85dc",
-		"editor.findMatchHighlightBackground": "#4670a738", //0a0d11
-		"editorWidget.background": "#1c0e4252", //
-
+		"editorWidget.background": "#1c0e42", //
+		
 		//panel
 		"panel.background": "#0c1318",
 		"panel.border": "#e3fc0263",
-
+		
 		//new
 		// "editor.findMatchBorder": "#bd218991",
+		"editorSuggestWidget.background": "#0e161d",
+		"editor.findMatchBackground": "#85057fdc",
+		"editor.findMatchHighlightBackground": "#5546a781", //0a0d11
 		"editor.findMatchHighlightBorder": "#3f3488",
-		"editor.selectionHighlightBorder": "#4e70a3",
+		"editor.selectionHighlightBackground": "#302dcf98",
+		"editor.selectionHighlightBorder": "#684ea346",
 		"editor.wordHighlightBorder": "#4e70a3",
 		"editorError.background": "#372c7eb7",
-		"editorOverviewRuler.findMatchForeground": "#6494db",
+		"editorOverviewRuler.findMatchForeground": "#af64db",
 		"editorWidget.border": "#645aa1",
 		"badge.foreground": "#e7e6ec",
 		"banner.background": "#4744eb6e",
@@ -109,7 +109,7 @@
 		//new
 		"tab.inactiveForeground": "#bccbe0",
 		"tab.unfocusedActiveForeground": "#f3f5f8",
-		"tab.unfocusedInactiveBackground": "#121117",
+		"tab.unfocusedInactiveBackground": "#0a0d11",
 		"tab.unfocusedInactiveForeground": "#d6e2f3",
 
 		//title
@@ -176,7 +176,7 @@
 
 		//input
 		"input.border": "#654f9e",
-		"input.background": "#270f6456",
+		"input.background": "#35128fa6",
 		"input.placeholderForeground": "#ddd",
 		"inputOption.activeBorder": "#7045e6",
 		"inputOption.activeBackground": "#36129b",
@@ -253,7 +253,7 @@
 		"settings.textInputForeground": "#ebebfa",
 
 		//new?
-		"breadcrumb.foreground": "#70a2ec",
+		"breadcrumb.foreground": "#d0cbee",
 		"checkbox.background": "#2d05dda1",
 		"checkbox.foreground": "#e4efff",
 		"descriptionForeground": "#9bb1f0",
